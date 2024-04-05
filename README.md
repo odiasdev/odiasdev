@@ -29,6 +29,6 @@ Sou um desenvolvedor web qualificado, com pouco mais de 1 ano de experiência em
 <h2>📊 Minhas estatística </h2>
 <br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CodeDias&theme=dark) <img align=top src="https://github-readme-stats.vercel.app/api?username=edhlz&theme=dark">  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CodeDias&theme=dark) <img align=top src="https://github-readme-stats.vercel.app/api?username=CodeDias&theme=dark">  
 
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=edhlz&theme=dark">  
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDias&theme=dark">  
