@@ -22,7 +22,7 @@ Sou um desenvolvedor web qualificado, com pouco mais de 1 ano de experiência em
 <h2>📚 Linguagens que pretendo aprender </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,js,php" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js" /><br>
 </div>
 <br/>
 <hr/>
