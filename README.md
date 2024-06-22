@@ -1,13 +1,13 @@
 <br>
 <h1 align="center"> 
-Olá, me chamo Dias 👾
+Olá, me chamo Lucas Dias 👾
   </br>
 </h1>
 
-<br />
+<br/>
 
 
-**`Estudante de Programação`**
+<strong>`Estudante de Programação`</strong>
 
 Sou um desenvolvedor web qualificado, com pouco mais de 1 ano de experiência em projetos de desenvolvimento de sites e aplicativos web.
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor web qualificado, com pouco mais de 1 ano de experiência em
 <h2>📖 Linguagens que estou aprendendo </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,cs,c" /><br>
 </div>
 <br/>
 
