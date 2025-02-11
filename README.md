@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQEHURUEF_1yTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712271777785?e=1730937600&v=beta&t=By1VozO69IM6ohiU0ls2zYydiwdAJ4Iljae-PtCz8BY"  />
+  <img height="150" src="https://media.discordapp.net/attachments/1260755395341713428/1338847084064931892/f492.png?ex=67ac9203&is=67ab4083&hm=a1e21f28231b66d3ef21c196b30dca8d095d6ad89e92be1eb708e7f006bbd5d9&=&format=webp&quality=lossless&width=626&height=626"  />
 </div>
 
 ###
@@ -58,9 +58,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeDias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 
