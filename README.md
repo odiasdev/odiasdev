@@ -48,10 +48,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=wordpress&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-    </a>
-    <img width="12" />
     <a href="https://github.com/codedias?tab=repositories&q=&type=&language=python&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     </a>
