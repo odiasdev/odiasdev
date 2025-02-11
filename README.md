@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1260755395341713428/1338847084064931892/f492.png?ex=67ac9203&is=67ab4083&hm=a1e21f28231b66d3ef21c196b30dca8d095d6ad89e92be1eb708e7f006bbd5d9&=&format=webp&quality=lossless&width=626&height=626"  />
+  <img height="150" src="https://media.discordapp.net/attachments/1260755395341713428/1338846687225188485/z99.png?ex=67ac91a4&is=67ab4024&hm=44a517cae19ca1da97dd819dc57afdf345f6e46d3a002f66a0a3ed68b2953410&=&format=webp&quality=lossless&width=710&height=626"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/lucas-dias-083432286/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-dias-083432286/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
