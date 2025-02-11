@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brasil<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I hang out with my friends</p>
+<p align="left">I'm Lucas from Brasil<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I hang out with my girlfriend</p>
 
 ###
 
