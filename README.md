@@ -97,11 +97,3 @@
 
 ###
 
-
-
-###
-
-<img src="https://raw.githubusercontent.com/CodeDias/CodeDias/output/snake.svg" alt="Snake animation" />
-
-###
-
