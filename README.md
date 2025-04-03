@@ -136,7 +136,7 @@
 
 ### 📊 GitHub Stats:  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furbim&theme=tokyonight" alt="Furbim's Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeDias&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
   
 </div>
