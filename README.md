@@ -132,6 +132,12 @@
     <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     </a>
+
+
+### 📊 GitHub Stats:  
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furbim&theme=tokyonight" alt="Furbim's Streak Stats" />
+</p>
   
 </div>
 
