@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeDias.CodeDias&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=odiasdev.odiasdev&"  />
 </div>
 
 ###
@@ -36,47 +36,47 @@
 ###
 
 <div align="left">
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=html&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=html&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=css&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=css&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=mysql&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=mysql&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=python&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=python&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=javascript&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=javascript&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=csharp&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=csharp&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
     </a>
   <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
     </a>
   <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
     </a>
   <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
     </a>
   <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
     </a>
   <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
     </a>
   
@@ -89,54 +89,54 @@
 ###
 
 <div align="left">
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=kotlin&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=kotlin&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=flutter&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=flutter&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=dart&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=dart&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
     </a>
     <img width="12" />
-    <a href="https://github.com/codedias?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
+    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
     </a>
 
 
 ### 📊 GitHub Stats:  
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeDias&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=odiasdev&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
 </p>
   
 </div>
