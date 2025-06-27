@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://catatau.xyz/IMG/z115.png"  />
+  <img height="150" src="https://camo.githubusercontent.com/f1106fba7ff3b77c9684ddded23b8d57ac56942271e6edf3beb4defa5848bb13/68747470733a2f2f636174617461752e78797a2f566964656f732f663135332e706e67"  />
 </div>
 
 ###
