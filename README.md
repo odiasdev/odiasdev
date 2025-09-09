@@ -4,139 +4,72 @@
 
 ###
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-dias-083432286/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/odiasdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/odiasdev" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f00015&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://discord.com/users/odiasdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="instagram.com/odiasdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="tiktok.com/odiasdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hi, there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Lucas from Brasil<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Kotlin<br>- ⚡ In my free time I hang out with my girlfriend</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-<p align="left">🖱 Click on the images to see the projects</p>
-
-###
-
-<div align="left">
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=html&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=css&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=mysql&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=python&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=javascript&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=csharp&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-    </a>
-  <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
-    </a>
-  <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=tailwind&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-    </a>
-  <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-    </a>
-  <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" />
-    </a>
-  <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
-    </a>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odiasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odiasdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">📖 I'm learning this year...</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odiasdev/odiasdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odiasdev/odiasdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/odiasdev/odiasdev/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="left">
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=kotlin&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=flutter&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=dart&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=swift&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-    </a>
-    <img width="12" />
-    <a href="https://github.com/odiasdev?tab=repositories&q=&type=&language=php&sort=" style="text-decoration: none !important;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-    </a>
-
-
-### 📊 GitHub Stats:  
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=odiasdev&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
-  
+<div align="center">
+  <a href="https://open.spotify.com/user/mandapradri.ad1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mandapradri.ad1&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
-
-
+###
