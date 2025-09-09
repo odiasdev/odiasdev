@@ -44,7 +44,7 @@
   <a href="https://instagram.com/odiasdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  target="_blank"/>
   </a>
-  <a href="https://tiktok.com/odiasdev" target="_blank">
+  <a href="https://tiktok.com/@odiasdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  target="_blank"/>
   </a>
 </div>
