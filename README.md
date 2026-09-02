@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/236x/8c/9c/07/8c9c07197673ea349f1dbac6c276b927.jpg" />
+  <img height="150" src="https://i.imgur.com/BJQUn4n.png" />
 </div>
 
 # Hi there, I'm Lucas Dias 👋
